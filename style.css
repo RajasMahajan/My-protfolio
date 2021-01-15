@@ -1,0 +1,47 @@
+.games {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  color: orangered;
+}
+.gameslink {
+  /* color: rgba(226, 31, 31, 0.164); */
+  text-align: center;
+  color: red;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.whole {
+  background-image: url("bg.png");
+  background-size: 800px;
+  height: 800px;
+}
+.Aboutus {
+  background-color: skyblue;
+  padding: 10px;
+}
+a {
+  color: forestgreen;
+  text-decoration: none;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+a:visited {
+  color: darkblue;
+}
+.text {
+  /* background-image: url("black.jpg"); */
+  /* background-position: left; */
+  /* background-size: 30px 30px; */
+  color: red;
+}
+.hey {
+  color: red;
+}
+.contact {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 1000;
+}
+.plane {
+  transform: translate(10px, -20px);
+}
